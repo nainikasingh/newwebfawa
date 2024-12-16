@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Dec 2024 05:30:55 at https://botmaster.software/india/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://botmaster.software/india/ -O1 "C:\My Web Sites\fawa1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:31:52	Error: 	"Not Found" (404) at link https://botmaster.software/india/GET (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/b-shapeup.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/b-shapemiddle.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/b-shapemiddle-1.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://botmaster.software/wp-content/themes/appilo/img/app-showcase/shape/ss-shape1.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://botmaster.software/wp-content/themes/appilo/img/app-showcase/shape/ss-shape2.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape1.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape2.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape3.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape4.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape5.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape6.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape8.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/fq-shape7.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2021/07/tbg.png (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://themexriver.com/appilo-theme/app-showcase/wp-content/uploads/sites/4/2020/01/author-thumb-4-25.jpg (from https://botmaster.software/india/)
+05:31:52	Error: 	"Not Found" (404) at link https://botmaster.software/wp-content/themes/appilo/img/shape/s_01.png (from https://botmaster.software/wp-content/cache/tw_optimize/css/two_2630_aggregated_5031697833a1b266bf9fe4d7a52cf38e_delay.min.css?date=1734206500)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 42 links scanned, 24 files written (6047463 bytes overall) [1336443 bytes received at 23446 bytes/sec], 7419958 bytes transferred using HTTP compression in 28 files, ratio 15%, 7.0 requests per connection
+(17 errors, 0 warnings, 0 messages)
